@@ -25,7 +25,7 @@ My research is primarily centered around exploring <strong>Interpretability</str
 
   <p style="font-size:12px;">     </p>
 
-* [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](https://arxiv.org/abs/2402.18913)   
+* [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](https://arxiv.org/abs/2403.10258)   
   Chaoqun Liu, Wenxuan Zhang, <strong>Yiran Zhao</strong>, Anh Tuan Luu, Lidong Bing         
   \[[paper](https://arxiv.org/abs/2403.10258)\] 
 
@@ -39,7 +39,7 @@ _Neural Information Processing Systems (NeurIPS) 2024._
 
 <p style="font-size:12px;">     </p>
 
-*  [Accelerating Greedy Coordinate Gradient and General Prompt Optimization via Probe Sampling](ttp://arxiv.org/abs/2403.01251)   
+*  [Accelerating Greedy Coordinate Gradient and General Prompt Optimization via Probe Sampling](http://arxiv.org/abs/2403.01251)   
   **Yiran Zhao**, Wenyue Zheng, Tianle Cai, Xuan Long Do, Kenji Kawaguchi, Anirudh Goyal, Michael Shieh.    
   _Neural Information Processing Systems (NeurIPS) 2024._      
   \[[paper](http://arxiv.org/abs/2403.01251)\] \[[code](https://github.com/zhaoyiran924/Probe-Sampling)\]
@@ -60,10 +60,10 @@ _Neural Information Processing Systems (NeurIPS) 2024._
 
 <p style="font-size:12px;">     </p>
 
-*  [Felm: Benchmarking Factuality Evaluation of Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2021/file/9bd5ee6fe55aaeb673025dbcb8f939c1-Paper.pdf)   
+*  [Felm: Benchmarking Factuality Evaluation of Large Language Models](https://arxiv.org/abs/2310.00741)   
   Shiqi Chen, **Yiran Zhao**, Jinghan Zhang, I-Chun Chern, Siyang Gao, Pengfei Liu, Junxian He.      
   _Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks track 2023._     
-  \[[paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/9bd5ee6fe55aaeb673025dbcb8f939c1-Paper.pdf)\] \[[code](https://github.com/hkust-nlp/felm)\]
+  \[[paper](https://arxiv.org/abs/2310.00741)\] \[[code](https://github.com/hkust-nlp/felm)\]
 
 <p style="font-size:12px;">     </p>
 
