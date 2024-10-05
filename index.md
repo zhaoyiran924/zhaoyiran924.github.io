@@ -15,13 +15,13 @@ My research is primarily centered around exploring <strong>Interpretability</str
    Wenxuan Zhang\*, Hou Pong Chan\*, **Yiran Zhao\***, Mahani Aljunied\*, Jianyu Wang\*, Chaoqun Liu, Yue Deng, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing         
    \[[Website](https://damo-nlp-sg.github.io/SeaLLMs/)\] \[[Model](https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)\] \[[Github](https://github.com/DAMO-NLP-SG/SeaLLMs)\] \[[Technical Report](https://arxiv.org/pdf/2407.19672)\] 
 
-
+​     
 
 ## Publications
 *  [How do Large Language Models Handle Multilingualism?](https://arxiv.org/abs/2402.18815)   
 **Yiran Zhao**, Wenxuan Zhang, Guizhen Chen, Kenji Kawaguchi, Lidong Bing.    
 _Neural Information Processing Systems (NeurIPS) 2024._      
-\[[paper](https://arxiv.org/abs/2402.18815)\] \[[code](https://github.com/DAMO-NLP-SG/multilingual_analysis)\]
+\[[paper](https://arxiv.org/abs/2402.18815)\] \[[code](https://github.com/DAMO-NLP-SG/multilingual_analysis)\] 
 *  [Accelerating Greedy Coordinate Gradient and General Prompt Optimization via Probe Sampling](ttp://arxiv.org/abs/2403.01251)   
 **Yiran Zhao**, Wenyue Zheng, Tianle Cai, Xuan Long Do, Kenji Kawaguchi, Anirudh Goyal, Michael Shieh.    
 _Neural Information Processing Systems (NeurIPS) 2024._      
