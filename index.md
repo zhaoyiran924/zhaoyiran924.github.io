@@ -54,7 +54,9 @@ _Neural Information Processing Systems (NeurIPS) 2024._
 
 *  [Prompt Optimization via Adversarial In-Context Learning](https://aclanthology.org/2024.acl-long.395/)   
   Xuan Long Do*, **Yiran Zhao\***, Hannah Brown\*, Yuxi Xie, James Xu Zhao, Nancy F. Chen, Michael Shieh, Junxian He.   
-  _Annual Meeting of the Association for Computational Linguistics (ACL) Main Oral 2024._        
+  _Annual Meeting of the Association for Computational Linguistics (ACL) Main 2024._  
+  <span style="color: red;">_Oral_</span>
+  
   \[[paper](https://aclanthology.org/2024.acl-long.395/)\] \[[code](https://github.com/zhaoyiran924/Adv-In-Context-Learning)\]
 
 <p style="font-size:12px;">     </p>
