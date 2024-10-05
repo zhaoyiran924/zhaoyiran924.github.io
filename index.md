@@ -7,7 +7,7 @@ I am a fourth-year Ph.D. candidate at National University of Singapore advised b
 
 My research is primarily centered around exploring <strong>Interpretability</strong>, <strong>Multilingual</strong>, <strong>Alignment</strong>, and <strong>Reasoning</strong> within the context of Large Language Models.
 
-
+​       
 
 ## Open Source Project
 
@@ -16,6 +16,20 @@ My research is primarily centered around exploring <strong>Interpretability</str
    \[[Website](https://damo-nlp-sg.github.io/SeaLLMs/)\] \[[Model](https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)\] \[[Github](https://github.com/DAMO-NLP-SG/SeaLLMs)\] \[[Technical Report](https://arxiv.org/pdf/2407.19672)\] 
 
 ​     
+
+## Preprints
+
+* [AdaMergeX: Cross-Lingual Transfer with Large Language Models via Adaptive Adapter Merging](https://arxiv.org/abs/2402.18913)   
+  <strong>Yiran Zhao</strong>, Wenxuan Zhang, Huiming Wang, Kenji Kawaguchi, Lidong Bing         
+  \[[paper](https://arxiv.org/abs/2402.18913)\] \[[code](https://github.com/DAMO-NLP-SG/AdaMergeX)\]
+
+  ​    
+
+* [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](https://arxiv.org/abs/2402.18913)   
+  Chaoqun Liu, Wenxuan Zhang, <strong>Yiran Zhao</strong>, Anh Tuan Luu, Lidong Bing         
+  \[[paper](https://arxiv.org/abs/2403.10258)\] 
+
+​                     
 
 ## Publications
 *  [How do Large Language Models Handle Multilingualism?](https://arxiv.org/abs/2402.18815)   
