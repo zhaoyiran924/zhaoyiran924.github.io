@@ -7,7 +7,7 @@ I am a fourth-year Ph.D. candidate at National University of Singapore advised b
 
 My research is primarily centered around exploring <strong>Interpretability</strong>, <strong>Multilingual</strong>, <strong>Alignment</strong>, and <strong>Reasoning</strong> within the context of Large Language Models.
 
-<p style="font-size:30px;">     </p>
+​          
 
 ## Open Source Project
 
