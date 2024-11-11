@@ -48,7 +48,8 @@ _Neural Information Processing Systems (NeurIPS) 2024._
 
 *  [Reasoning Robustness of LLMs to Adversarial Typographical Errors]()      
   Esther Gan\*, **Yiran Zhao***, Liying Cheng, Yancan Mao, Anirudh Goyal, Kenji Kawaguchi, Min-Yen Kan, Michael Shieh.  
-  _Empirical Methods in Natural Language Processing (EMNLP) Main 2024._
+  _Empirical Methods in Natural Language Processing (EMNLP) Main 2024._      
+  \[[paper](https://arxiv.org/pdf/2411.05345)\] \[[website](https://esther-gan.github.io/r2ata-web/)\]
 
 <p style="font-size:12px;">     </p>
 
