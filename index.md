@@ -32,6 +32,20 @@ My research is primarily centered around exploring <strong>Interpretability</str
 ​          
 
 ## Publications
+* [Identifying and Tuning Safety Neurons in Large Language Models](https://openreview.net/pdf?id=yR47RmND1m)   
+  **Yiran Zhao**, Wenxuan Zhang, Yuxi Xie, Anirudh Goyal, Kenji Kawaguchi, Michael Qizhe Shieh.    
+  _International Conference on Learning Representations (ICLR) 2025._      
+  \[[paper](https://openreview.net/pdf?id=yR47RmND1m)\] 
+
+  <p style="font-size:12px;">     </p>
+
+* [Investigating Pattern Neurons in Urban Time Series Forecasting](https://openreview.net/pdf?id=a9vey6B54y)   
+  Chengxin Wang, **Yiran Zhao**, Shaofeng Cai, Gary Tan.    
+  _International Conference on Learning Representations (ICLR) 2025._      
+  \[[paper](https://openreview.net/pdf?id=yR47RmND1m)\] 
+
+  <p style="font-size:12px;">     </p>
+
 *  [How do Large Language Models Handle Multilingualism?](https://arxiv.org/abs/2402.18815)   
 **Yiran Zhao**, Wenxuan Zhang, Guizhen Chen, Kenji Kawaguchi, Lidong Bing.    
 _Neural Information Processing Systems (NeurIPS) 2024._      
@@ -40,14 +54,14 @@ _Neural Information Processing Systems (NeurIPS) 2024._
 <p style="font-size:12px;">     </p>
 
 *  [Accelerating Greedy Coordinate Gradient and General Prompt Optimization via Probe Sampling](http://arxiv.org/abs/2403.01251)   
-  **Yiran Zhao**, Wenyue Zheng, Tianle Cai, Xuan Long Do, Kenji Kawaguchi, Anirudh Goyal, Michael Shieh.    
+  **Yiran Zhao**, Wenyue Zheng, Tianle Cai, Xuan Long Do, Kenji Kawaguchi, Anirudh Goyal, Michael Qizhe Shieh.    
   _Neural Information Processing Systems (NeurIPS) 2024._      
   \[[paper](http://arxiv.org/abs/2403.01251)\] \[[code](https://github.com/zhaoyiran924/Probe-Sampling)\]
 
 <p style="font-size:12px;">     </p>
 
 *  [Reasoning Robustness of LLMs to Adversarial Typographical Errors]()      
-  Esther Gan\*, **Yiran Zhao***, Liying Cheng, Yancan Mao, Anirudh Goyal, Kenji Kawaguchi, Min-Yen Kan, Michael Shieh.  
+  Esther Gan\*, **Yiran Zhao***, Liying Cheng, Yancan Mao, Anirudh Goyal, Kenji Kawaguchi, Min-Yen Kan, Michael Qizhe Shieh.  
   _Empirical Methods in Natural Language Processing (EMNLP) Main 2024._      
   \[[paper](https://arxiv.org/pdf/2411.05345)\] \[[website](https://esther-gan.github.io/r2ata-web/)\]
 
