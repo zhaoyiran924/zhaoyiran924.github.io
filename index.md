@@ -43,8 +43,8 @@ My research is primarily centered around exploring <strong>Interpretability</str
   Chaoqun Liu, Wenxuan Zhang, <strong>Yiran Zhao</strong>, Anh Tuan Luu, Lidong BingBing    
   _Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) 2025._      
   \[[paper](https://openreview.net/pdf?id=yR47RmND1m)\] 
-
-​          
+  
+  <p style="font-size:12px;">     </p>
 
 *  [How do Large Language Models Handle Multilingualism?](https://arxiv.org/abs/2402.18815)   
 **Yiran Zhao**, Wenxuan Zhang, Guizhen Chen, Kenji Kawaguchi, Lidong Bing.    
