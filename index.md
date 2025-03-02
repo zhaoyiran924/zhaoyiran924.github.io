@@ -13,7 +13,7 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 ## Open Source Project
 
 *  [Babel - Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://github.com/babel-llm/babel-llm/blob/main/paper/babel.pdf)   
-   **Yiran Zhao**, Chaoqun Liu, Yue Deng, Jiahao Ying, Mahani Aljunied, Zhaodonghui Li, Lidong Bing, Hou Pong Chan, Yu Rong, Deli Zhao, Wenxuan Zhang 
+   **Yiran Zhao**, Chaoqun Liu, Yue Deng, Jiahao Ying, Mahani Aljunied, Zhaodonghui Li, Lidong Bing, Hou Pong Chan, Yu Rong, Deli Zhao, Wenxuan Zhang. 
    \[[Website](https://babel-llm.github.io/babel-llm/)\] \[[Model](https://huggingface.co/Tower-Babel)\] \[[Technical Report](https://github.com/babel-llm/babel-llm/blob/main/paper/babel.pdf)\] 
 
   <p style="font-size:12px;">     </p>
