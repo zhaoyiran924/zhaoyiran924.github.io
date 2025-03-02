@@ -7,7 +7,7 @@ I am a fourth-year Ph.D. candidate at National University of Singapore advised b
 
 My research is primarily centered around exploring <strong>Efficiency</strong>, <strong>Multilingual</strong>, <strong>Alignment</strong>, and <strong>Reasoning</strong> within the context of Large Language Models.
 
-<span style="color:red;">**I’m on the job market and actively looking for a Research Scientist position starting in Fall 2025! Feel free to reach out—I’d love to connect!**</span>  
+**<span style="color:red;">I’m on the job market and actively looking for a Research Scientist position starting in Fall 2025! Feel free to reach out—I’d love to connect!</span>**  
 ​          
 
 ## Open Source Project
