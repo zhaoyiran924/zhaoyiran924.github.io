@@ -3,19 +3,41 @@ layout: homepage
 title: Homepage 
 ---
 ## About me
-I am a fourth-year Ph.D. candidate at National University of Singapore advised by <a href="https://ml.comp.nus.edu.sg/kawaguchi">Prof. Kenji Kawaguchi</a>. I also closely work with <a href="https://michaelshieh.com/">Prof. Michael Shieh</a> and <a href="https://isakzhang.github.io/">Dr. Wenxuan Zhang</a>. I completed my undergraduate at Shanghai Jiaotong University under <a href="https://www.cs.sjtu.edu.cn/~jinhaiming/">Prof. Haiming Jin</a>'s advisor.
+I am a fourth-year Ph.D. candidate at National University of Singapore advised by <a href="https://ml.comp.nus.edu.sg/kawaguchi">Prof. Kenji Kawaguchi</a>. I also closely work with <a href="https://michaelshieh.com/">Prof. Michael Shieh</a> and <a href="https://isakzhang.github.io/">Prof. Wenxuan Zhang</a>. I completed my undergraduate at Shanghai Jiaotong University under <a href="https://www.cs.sjtu.edu.cn/~jinhaiming/">Prof. Haiming Jin</a>'s advisor.
 
-My research is primarily centered around exploring <strong>Interpretability</strong>, <strong>Multilingual</strong>, <strong>Alignment</strong>, and <strong>Reasoning</strong> within the context of Large Language Models.
+My research is primarily centered around exploring <strong>Efficiency</strong>, <strong>Multilingual</strong>, <strong>Alignment</strong>, and <strong>Reasoning</strong> within the context of Large Language Models.
 
+<span style="color:red;">I’m on the job market and actively looking for a Research Scientist position starting in Fall 2025! Feel free to reach out—I’d love to connect!</span>  
 ​          
 
 ## Open Source Project
 
+*  [Babel - Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://github.com/babel-llm/babel-llm/blob/main/paper/babel.pdf)   
+   **Yiran Zhao**, Chaoqun Liu, Yue Deng, Jiahao Ying, Mahani Aljunied, Zhaodonghui Li, Lidong Bing, Hou Pong Chan, Yu Rong, Deli Zhao, Wenxuan Zhang 
+   \[[Website](https://babel-llm.github.io/babel-llm/)\] \[[Model](https://huggingface.co/Tower-Babel)\] \[[Technical Report](https://github.com/babel-llm/babel-llm/blob/main/paper/babel.pdf)\] 
+
+  <p style="font-size:12px;">     </p>
+
 *  [SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages](https://arxiv.org/pdf/2407.19672)   
-   Wenxuan Zhang\*, Hou Pong Chan\*, **Yiran Zhao\***, Mahani Aljunied\*, Jianyu Wang\*, Chaoqun Liu, Yue Deng, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing         
+   Wenxuan Zhang\*, Hou Pong Chan\*, **Yiran Zhao\***, Mahani Aljunied\*, Jianyu Wang\*, Chaoqun Liu, Yue Deng, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing 
+   _Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) 2025 System Demostration._              
    \[[Website](https://damo-nlp-sg.github.io/SeaLLMs/)\] \[[Model](https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)\] \[[Github](https://github.com/DAMO-NLP-SG/SeaLLMs)\] \[[Technical Report](https://arxiv.org/pdf/2407.19672)\] 
 
-​          
+
+
+## Preprint​
+* [Unnatural Languages Are Not Bugs but Features for LLMs](https://openreview.net/pdf?id=yR47RmND1m)   
+  Keyu Duan*, **Yiran Zhao***, Zhili Feng, Jinjie Ni, Tianyu Pang, Qian Liu, Tianle Cai, Longxu Dou, Kenji Kawaguchi, Anirudh Goyal, J Zico Kolter, Michael Qizhe Shieh.        
+  \[[paper](https://openreview.net/pdf?id=yR47RmND1m)\] \[[code](https://github.com/John-AI-Lab/Unnatural_Language)\] 
+
+  <p style="font-size:12px;">     </p>
+
+* [Pruning General Large Language Models into Customized Expert Models](https://openreview.net/pdf?id=yR47RmND1m)   
+  Yiran Zhao, Guizhen Chen, Kenji Kawaguchi, Lidong Bing, Wenxuan Zhang.        
+
+  <p style="font-size:12px;">     </p>
+
+
 
 ## Publications
 * [Identifying and Tuning Safety Neurons in Large Language Models](https://openreview.net/pdf?id=yR47RmND1m)   
