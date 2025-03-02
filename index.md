@@ -28,13 +28,13 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 
 ## Preprint​
 * [Unnatural Languages Are Not Bugs but Features for LLMs](https://openreview.net/pdf?id=yR47RmND1m)   
-  Keyu Duan*, **Yiran Zhao***, Zhili Feng, Jinjie Ni, Tianyu Pang, Qian Liu, Tianle Cai, Longxu Dou, Kenji Kawaguchi, Anirudh Goyal, J Zico Kolter, Michael Qizhe Shieh.        
+  Keyu Duan\*, **Yiran Zhao\***, Zhili Feng, Jinjie Ni, Tianyu Pang, Qian Liu, Tianle Cai, Longxu Dou, Kenji Kawaguchi, Anirudh Goyal, J Zico Kolter, Michael Qizhe Shieh.        
   \[[paper](https://openreview.net/pdf?id=yR47RmND1m)\] \[[code](https://github.com/John-AI-Lab/Unnatural_Language)\] 
 
   <p style="font-size:12px;">     </p>
 
 * [Pruning General Large Language Models into Customized Expert Models](https://openreview.net/pdf?id=yR47RmND1m)   
-  Yiran Zhao, Guizhen Chen, Kenji Kawaguchi, Lidong Bing, Wenxuan Zhang.        
+  **Yiran Zhao**, Guizhen Chen, Kenji Kawaguchi, Lidong Bing, Wenxuan Zhang.        
 
   <p style="font-size:12px;">     </p>
 
