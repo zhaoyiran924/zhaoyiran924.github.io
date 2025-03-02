@@ -34,9 +34,6 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 
   <p style="font-size:12px;">     </p>
 
-* [Pruning General Large Language Models into Customized Expert Models](https://openreview.net/pdf?id=yR47RmND1m)   
-  **Yiran Zhao**, Guizhen Chen, Kenji Kawaguchi, Lidong Bing, Wenxuan Zhang.        
-
 
 
 
