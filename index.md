@@ -23,7 +23,7 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
    _Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) 2025 System Demostration._              
    \[[Website](https://damo-nlp-sg.github.io/SeaLLMs/)\] \[[Model](https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)\] \[[Github](https://github.com/DAMO-NLP-SG/SeaLLMs)\] \[[Technical Report](https://arxiv.org/pdf/2407.19672)\] 
 
-
+<p style="font-size:24px;">     </p>
 
 
 ## Preprint​
@@ -36,8 +36,8 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 * [Pruning General Large Language Models into Customized Expert Models](https://openreview.net/pdf?id=yR47RmND1m)   
   **Yiran Zhao**, Guizhen Chen, Kenji Kawaguchi, Lidong Bing, Wenxuan Zhang.        
 
-  <p style="font-size:12px;">     </p>
 
+<p style="font-size:24px;">     </p>
 
 
 
