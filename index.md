@@ -23,7 +23,8 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
    _Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) 2025 System Demostration._              
    \[[Website](https://damo-nlp-sg.github.io/SeaLLMs/)\] \[[Model](https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)\] \[[Github](https://github.com/DAMO-NLP-SG/SeaLLMs)\] \[[Technical Report](https://arxiv.org/pdf/2407.19672)\] 
 
-<p style="font-size:24px;">     </p>
+
+
 
 
 ## Preprint​
@@ -37,7 +38,6 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
   **Yiran Zhao**, Guizhen Chen, Kenji Kawaguchi, Lidong Bing, Wenxuan Zhang.        
 
 
-<p style="font-size:24px;">     </p>
 
 
 
@@ -139,8 +139,8 @@ _Neural Information Processing Systems (NeurIPS) 2024._
 <!-- * [Aug. 2023 – Now] Alibaba DAMO Academy, Research Intern at Language Technology Lab, working with [Dr. Wenxuan Zhang](https://isakzhang.github.io/).
 
 * [Aug. 2023 – Now] Alibaba DAMO Academy, Research Intern at Language Technology Lab, working with [Dr. Wenxuan Zhang](https://isakzhang.github.io/). -->
-* Alibaba Damo Academy, Aug. 2023 - Now, Research Intern at Language Technology Lab, working with [Dr. Wenxuan Zhang](https://isakzhang.github.io/). 
-
+* Alibaba Damo Academy, Aug. 2023 - Feb. 2025, Research Intern at Language Technology Lab, working with [Dr. Wenxuan Zhang](https://isakzhang.github.io/). 
+* Salesforce Singapore, Mar. 2025 - Now, Research Intern, working with [Dr. Junnan Li](https://scholar.google.com/citations?user=MuUhwi0AAAAJ&hl=en). 
 ​          
 
 
