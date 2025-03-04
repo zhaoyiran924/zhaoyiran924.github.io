@@ -133,8 +133,8 @@ _Neural Information Processing Systems (NeurIPS) 2024._
 
 * [Aug. 2023 – Now] Alibaba DAMO Academy, Research Intern at Language Technology Lab, working with [Dr. Wenxuan Zhang](https://isakzhang.github.io/). -->
 * Alibaba Damo Academy, Aug. 2023 - Feb. 2025, Research Intern at Language Technology Lab, working with [Dr. Wenxuan Zhang](https://isakzhang.github.io/). 
-* Salesforce Singapore, Mar. 2025 - Now, Research Intern, working with [Dr. Junnan Li](https://scholar.google.com/citations?user=MuUhwi0AAAAJ&hl=en). 
-​          
+* Salesforce Singapore, Mar. 2025 - Now, Research Intern, working with [Dr. Yuhui Xu](https://yuhuixu1993.github.io/) [Dr. Junnan Li](https://scholar.google.com/citations?user=MuUhwi0AAAAJ&hl=en). 
+          
 
 
 ## Professional Services
