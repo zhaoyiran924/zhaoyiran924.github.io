@@ -13,17 +13,15 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 ## Open Source Project
 
 *  [Babel - Open Multilingual Large Language Models Serving Over 90% of Global Speakers](https://babel-llm.github.io/babel-llm/)   
-   **Yiran Zhao**, Chaoqun Liu, Yue Deng, Jiahao Ying, Mahani Aljunied, Zhaodonghui Li, Lidong Bing, Hou Pong Chan, Yu Rong, Deli Zhao, Wenxuan Zhang. 
-   \[[Website](https://babel-llm.github.io/babel-llm/)\] \[[Model](https://huggingface.co/Tower-Babel)\] \[[Technical Report](https://github.com/babel-llm/babel-llm/blob/main/paper/babel.pdf)\] 
+   **Yiran Zhao**, Chaoqun Liu, Yue Deng, Jiahao Ying, Mahani Aljunied, Zhaodonghui Li, Lidong Bing, Hou Pong Chan, Yu Rong, Deli Zhao, Wenxuan Zhang.             
+   \[[Website](https://babel-llm.github.io/babel-llm/)\] \[[Model](https://huggingface.co/Tower-Babel)\] \[[Technical Report](https://arxiv.org/pdf/2503.00865)\] \[[Github](https://github.com/babel-llm/babel-llm)\] 
 
   <p style="font-size:12px;">     </p>
 
 *  [SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages](https://arxiv.org/pdf/2407.19672)   
-   Wenxuan Zhang\*, Hou Pong Chan\*, **Yiran Zhao\***, Mahani Aljunied\*, Jianyu Wang\*, Chaoqun Liu, Yue Deng, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing 
+   Wenxuan Zhang\*, Hou Pong Chan\*, **Yiran Zhao\***, Mahani Aljunied\*, Jianyu Wang\*, Chaoqun Liu, Yue Deng, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing             
    _Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) 2025 System Demostration._              
    \[[Website](https://damo-nlp-sg.github.io/SeaLLMs/)\] \[[Model](https://huggingface.co/collections/SeaLLMs/seallms-v3-668f3a52e1e6fbaad5752cdb)\] \[[DEMO](https://huggingface.co/spaces/SeaLLMs/SeaLLM-Chat)\] \[[Github](https://github.com/DAMO-NLP-SG/SeaLLMs)\] \[[Technical Report](https://arxiv.org/pdf/2407.19672)\] 
-
-
 
 
 
@@ -33,8 +31,6 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
   \[[paper](https://openreview.net/pdf?id=yR47RmND1m)\] \[[code](https://github.com/John-AI-Lab/Unnatural_Language)\] 
 
   <p style="font-size:12px;">     </p>
-
-
 
 
 
