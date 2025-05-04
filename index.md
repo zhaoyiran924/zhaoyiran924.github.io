@@ -25,16 +25,17 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 
 
 
-## Preprint​
-* [Unnatural Languages Are Not Bugs but Features for LLMs](https://openreview.net/pdf?id=yR47RmND1m)   
-  Keyu Duan\*, **Yiran Zhao\***, Zhili Feng, Jinjie Ni, Tianyu Pang, Qian Liu, Tianle Cai, Longxu Dou, Kenji Kawaguchi, Anirudh Goyal, J Zico Kolter, Michael Qizhe Shieh.        
-  \[[paper](https://openreview.net/pdf?id=yR47RmND1m)\] \[[code](https://github.com/John-AI-Lab/Unnatural_Language)\] 
-
-  <p style="font-size:12px;">     </p>
-
 
 
 ## Publications
+
+* [Unnatural Languages Are Not Bugs but Features for LLMs](https://openreview.net/pdf?id=yR47RmND1m)   
+  Keyu Duan\*, **Yiran Zhao\***, Zhili Feng, Jinjie Ni, Tianyu Pang, Qian Liu, Tianle Cai, Longxu Dou, Kenji Kawaguchi, Anirudh Goyal, J Zico Kolter, Michael Qizhe Shieh.   
+  _International Conference on Machine Learning (ICML) 2025._    
+  \[[paper](https://openreview.net/pdf?id=yR47RmND1m)\] \[[code](https://github.com/John-AI-Lab/Unnatural_Language)\] 
+
+  
+
 * [Identifying and Tuning Safety Neurons in Large Language Models](https://openreview.net/pdf?id=yR47RmND1m)   
   **Yiran Zhao**, Wenxuan Zhang, Yuxi Xie, Anirudh Goyal, Kenji Kawaguchi, Michael Qizhe Shieh.    
   _International Conference on Learning Representations (ICLR) 2025._      
