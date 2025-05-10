@@ -29,10 +29,10 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 
 ## Publications
 
-* [Unnatural Languages Are Not Bugs but Features for LLMs](https://openreview.net/pdf?id=yR47RmND1m)   
+* [Unnatural Languages Are Not Bugs but Features for LLMs](https://arxiv.org/pdf/2503.01926)   
   Keyu Duan\*, **Yiran Zhao\***, Zhili Feng, Jinjie Ni, Tianyu Pang, Qian Liu, Tianle Cai, Longxu Dou, Kenji Kawaguchi, Anirudh Goyal, J Zico Kolter, Michael Qizhe Shieh.   
   _International Conference on Machine Learning (ICML) 2025._    
-  \[[paper](https://openreview.net/pdf?id=yR47RmND1m)\] \[[code](https://github.com/John-AI-Lab/Unnatural_Language)\] 
+  \[[paper](https://arxiv.org/pdf/2503.01926)\] \[[code](https://github.com/John-AI-Lab/Unnatural_Language)\] 
 
   
 
