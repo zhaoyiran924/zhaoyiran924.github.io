@@ -61,18 +61,19 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 
 * [AdaMergeX: Cross-Lingual Transfer with Large Language Models via Adaptive Adapter Merging](https://arxiv.org/abs/2402.18913)   
   **Yiran Zhao**, Wenxuan Zhang, Huiming Wang, Kenji Kawaguchi, Lidong Bing    
-  _Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) 2025._      
+  _Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) Main 2025._      
   \[[paper](https://arxiv.org/abs/2402.18913)\] 
 
   <p style="font-size:12px;">     </p>
 
 * [Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models](https://arxiv.org/abs/2403.10258)   
   Chaoqun Liu, Wenxuan Zhang, <strong>Yiran Zhao</strong>, Anh Tuan Luu, Lidong Bing    
-  _Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) 2025._      
+  _Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) Main 2025._  
+  <span style="color: red;">_Oral_</span>     
   \[[paper](https://arxiv.org/abs/2403.10258)\] 
-
+  
   <p style="font-size:12px;">     </p>
-
+  
 * [How do Large Language Models Handle Multilingualism?](https://arxiv.org/abs/2402.18815)   
   **Yiran Zhao**, Wenxuan Zhang, Guizhen Chen, Kenji Kawaguchi, Lidong Bing.    
   _Neural Information Processing Systems (NeurIPS) 2024._      
