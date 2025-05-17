@@ -27,7 +27,16 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 
 
 
-## Publications
+## Selected Publications
+
+* [Pruning General Large Language Models into Customized Expert Models](https://arxiv.org/pdf/2503.01926)   
+  **Yiran Zhao**, Guizhen Chen, Kenji Kawaguchi, Lidong Bing, Wenxuan Zhang.   
+  _Annual Meeting of the Association for Computational Linguistics (ACL) Findings 2025._    
+  \[[paper](https://arxiv.org/pdf/2503.01926)\] \[[code](https://github.com/John-AI-Lab/Unnatural_Language)\] 
+
+
+
+
 
 * [Unnatural Languages Are Not Bugs but Features for LLMs](https://arxiv.org/pdf/2503.01926)   
   Keyu Duan\*, **Yiran Zhao\***, Zhili Feng, Jinjie Ni, Tianyu Pang, Qian Liu, Tianle Cai, Longxu Dou, Kenji Kawaguchi, Anirudh Goyal, J Zico Kolter, Michael Qizhe Shieh.   
@@ -61,13 +70,13 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
   Chaoqun Liu, Wenxuan Zhang, <strong>Yiran Zhao</strong>, Anh Tuan Luu, Lidong Bing    
   _Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL) 2025._      
   \[[paper](https://arxiv.org/abs/2403.10258)\] 
-  
+
   <p style="font-size:12px;">     </p>
 
-*  [How do Large Language Models Handle Multilingualism?](https://arxiv.org/abs/2402.18815)   
-**Yiran Zhao**, Wenxuan Zhang, Guizhen Chen, Kenji Kawaguchi, Lidong Bing.    
-_Neural Information Processing Systems (NeurIPS) 2024._      
-\[[paper](https://arxiv.org/abs/2402.18815)\] \[[code](https://github.com/DAMO-NLP-SG/multilingual_analysis)\] 
+* [How do Large Language Models Handle Multilingualism?](https://arxiv.org/abs/2402.18815)   
+  **Yiran Zhao**, Wenxuan Zhang, Guizhen Chen, Kenji Kawaguchi, Lidong Bing.    
+  _Neural Information Processing Systems (NeurIPS) 2024._      
+  \[[paper](https://arxiv.org/abs/2402.18815)\] \[[code](https://github.com/DAMO-NLP-SG/multilingual_analysis)\] 
 
 <p style="font-size:12px;">     </p>
 
