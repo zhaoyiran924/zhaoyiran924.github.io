@@ -7,8 +7,7 @@ I am a fourth-year Ph.D. candidate at National University of Singapore advised b
 
 My research is primarily centered around exploring <strong>Efficiency</strong>, <strong>Multilingual</strong>, <strong>Alignment</strong>, and <strong>Reasoning</strong> within the context of Large Language Models.
 
-**<span style="color:red;">I will be joining Salesforce as a Research Scientist in <a href="https://raihanjoty.github.io/">Dr. Shafiq Joty’s</a> team this coming August, based in Palo Alto.</span>**  
-          
+​          
 
 ## Open Source Project
 
