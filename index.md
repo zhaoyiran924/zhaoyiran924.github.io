@@ -28,12 +28,24 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 
 ## Selected Publications
 
+* [The Emergence of Abstract Thought in Large Language Models Beyond Any Language](https://arxiv.org/abs/2506.09890)   
+  Yuxin Chen\*, **Yiran Zhao***, Yang Zhang, An Zhang, Kenji Kawaguchi, Shafiq Joty, Junnan Li, Tat-Seng Chua, Michael Qizhe Shieh, Wenxuan Zhang.   
+  _Neural Information Processing Systems (NeurIPS) 2025._    
+  \[[paper](https://arxiv.org/abs/2506.09890)\] \[[code](https://github.com/chenyuxin1999/Abstract_Thought)\] 
+
+
+
+* [The Rise of Parameter Specialization for Knowledge Storage in Large Language Models](https://arxiv.org/pdf/2505.17260)   
+  Yihuai Hong, **Yiran Zhao**, Wei Tang, Yang Deng, Yu Rong, Wenxuan Zhang .   
+  _Neural Information Processing Systems (NeurIPS) 2025._    
+  \[[paper](https://arxiv.org/pdf/2505.17260)\] \[[code](https://github.com/chenyuxin1999/Abstract_Thought)\] 
+
+
+
 * [Pruning General Large Language Models into Customized Expert Models](https://arxiv.org/pdf/2503.01926)   
   **Yiran Zhao**, Guizhen Chen, Kenji Kawaguchi, Lidong Bing, Wenxuan Zhang.   
   _Annual Meeting of the Association for Computational Linguistics (ACL) Findings 2025._    
   \[[paper](https://arxiv.org/pdf/2503.01926)\] \[[code](https://github.com/John-AI-Lab/Unnatural_Language)\] 
-
-
 
 
 
