@@ -29,7 +29,7 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 ## Selected Publications
 
 * [The Emergence of Abstract Thought in Large Language Models Beyond Any Language](https://arxiv.org/abs/2506.09890)   
-  Yuxin Chen\*, **Yiran Zhao***, Yang Zhang, An Zhang, Kenji Kawaguchi, Shafiq Joty, Junnan Li, Tat-Seng Chua, Michael Qizhe Shieh, Wenxuan Zhang.   
+  Yuxin Chen\*, **Yiran Zhao\***, Yang Zhang, An Zhang, Kenji Kawaguchi, Shafiq Joty, Junnan Li, Tat-Seng Chua, Michael Qizhe Shieh, Wenxuan Zhang.   
   _Neural Information Processing Systems (NeurIPS) 2025._    
   \[[paper](https://arxiv.org/abs/2506.09890)\] \[[code](https://github.com/chenyuxin1999/Abstract_Thought)\] 
 
