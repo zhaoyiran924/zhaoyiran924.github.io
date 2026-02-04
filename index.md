@@ -27,6 +27,18 @@ My research is primarily centered around exploring <strong>Efficiency</strong>, 
 
 
 ## Selected Publications
+* [Learning to Reason over Continuous Tokens with Reinforcement Learning](https://openreview.net/forum?id=lebJ6wz1vj&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))   
+  **Yiran Zhao**, Yuhui Xu, Doyen Sahoo, Caiming Xiong, Junnan Li .   
+  _International Conference on Learning Representations (ICLR) 2026._    
+  \[[paper](https://openreview.net/forum?id=lebJ6wz1vj&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))\]
+
+
+* [MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP Use](https://arxiv.org/abs/2509.24002)   
+  Zijian Wu\*, Xiangyan Liu\*, xinyuan zhang\*, Lingjun Chen\*, Fanqing Meng\*, Lingxiao Du\*, **Yiran Zhao\***, Fanshi Zhang\*, Yaoqi Ye, Jiawei Wang, Zirui Wang, Jinjie Ni, Yufan Yang, Arvin Xu, Michael Qizhe Shieh.   
+  _International Conference on Learning Representations (ICLR) 2026._    
+  \[[paper](https://arxiv.org/abs/2509.24002)\]
+
+
 
 * [The Emergence of Abstract Thought in Large Language Models Beyond Any Language](https://arxiv.org/abs/2506.09890)   
   Yuxin Chen\*, **Yiran Zhao\***, Yang Zhang, An Zhang, Kenji Kawaguchi, Shafiq Joty, Junnan Li, Tat-Seng Chua, Michael Qizhe Shieh, Wenxuan Zhang.   
